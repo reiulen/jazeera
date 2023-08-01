@@ -102,7 +102,7 @@
 				},
 				mousewheel: true,
 				keyboard: true,
-				loop: true,
+				// loop: true,
 				grabCursor: true,
 				spaceBetween: 30,
 				centeredSlides: false,

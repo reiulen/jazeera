@@ -133,6 +133,9 @@
                                                 <a href="#">Gallery</a>
                                             </li>
                                             <li class="">
+                                                <a href="#">News</a>
+                                            </li>
+                                            <li class="">
                                                 <a href="#">Career</a>
                                             </li>
                                             <li><a href="contact-us.html">Contact Us</a></li>
